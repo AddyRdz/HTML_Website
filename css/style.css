@@ -1,0 +1,74 @@
+body {
+  background-color: rgb(30, 81, 164);
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 26, 255, 0),
+    rgb(7, 25, 183)
+  );
+}
+
+a {
+  color: aliceblue;
+}
+a:visited {
+  color: red;
+}
+a:hover {
+  color: darkgray;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  font-size: 20px;
+  font-family:'Times New Roman', Times, serif
+}
+
+#home-icon {
+  width: 20px;
+  height: 20px;
+}
+
+#search-icon {
+  width: 20px;
+  height: 20px;
+}
+#intro{
+    display: flex;
+    align-items: center;
+}
+.headline{
+    margin-left: 750px;
+    font-size: 50px;
+    color: aliceblue;
+    
+}
+#floating-mag{
+    display: flex;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid aliceblue;
+}
+.description{
+    align-content: center;
+    font-size: 25px;
+    margin-left: 10px;
+    color: aliceblue;
+}
+#shopping-cart{
+    margin-left: 750px;
+    width:65px;
+    height:65px;
+}
+.form-checkout{
+    margin-left: 800px;
+}
+.footer{
+    margin-left: 800px;
+}
+.card-info{
+    margin-left: 800px;
+}
+.submitButton:hover{
+    color:red
+}
