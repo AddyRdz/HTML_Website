@@ -1,0 +1,24 @@
+.form-checkout{
+    display: grid;
+    border: 4px solid black;
+    width: 550px;
+    height:550px;
+}
+
+.card-info{
+    display: grid;
+    border: 4px solid black;
+    width: 500px;
+    height:500px;
+}
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centers the forms horizontally */
+  }
+  
+  .form1, .form2 {
+    margin-bottom: 20px;
+    width: 100%; /* Ensure forms take up the full width of their container */
+    max-width: 500px; /* Adjust the max-width as needed */
+  }
