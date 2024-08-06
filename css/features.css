@@ -1,0 +1,6 @@
+  a:visited {
+    color: blue;
+  }
+  a:hover {
+    color: rgba(4, 18, 104, 0.831);
+  }

@@ -1,7 +1,7 @@
-/* *{
-  background-color: rgb(2, 32, 86);
-  
-} */
+body{
+  background-color: rgb(160, 7, 30);
+}
+
 a {
   color: aliceblue;
 }
@@ -9,7 +9,7 @@ a:visited {
   color: blue;
 }
 a:hover {
-  color: darkgray;
+  color: rgba(4, 18, 104, 0.831);
 }
 
  .title{
