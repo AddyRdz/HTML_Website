@@ -1,8 +1,17 @@
 .form-checkout{
     display: grid;
-    border: 4px solid black;
+    border: 4px black solid;
+    border-radius: 7px;
     width: 550px;
     height:550px;
+}
+
+.gif{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    margin-bottom: 10px;
 }
 
 .card-info{
@@ -10,6 +19,7 @@
     border: 4px solid black;
     width: 500px;
     height:500px;
+    border-radius: 8px;
 }
 .form-container {
     display: flex;

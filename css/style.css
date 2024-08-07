@@ -19,24 +19,14 @@ a:hover {
     margin-top: 50px;
     color: black;
     border: 1px solid black;
+    transition: 3s;
 }
 .btn.btn-dark:hover{
   color: rgba(4, 18, 104, 0.831);
 
   
 }
-/* #shopping-cart{
-    margin-left: 750px;
-    width:65px;
-    height:65px;
+.description:hover{
+  font-size: 23px;
+  color: gray;
 }
-.form-checkout{
-    margin-left: 800px;
-}
-
-.card-info{
-    margin-left: 800px;
-}
-.submitButton:hover{
-    color:red
-} */
