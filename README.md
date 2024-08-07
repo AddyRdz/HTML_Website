@@ -10,7 +10,19 @@
 
 ## Technical Specifications
 - HTML
+  - Forms
+  - Navigation
+  - HTML Tags
+  - Three Pages
+  - Images
+  - Text
+  - Gifs
+  
 - CSS
+  - Inline
+  - Internal
+  - External
+ 
 - Bootstrap
 
 
