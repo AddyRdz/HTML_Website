@@ -1,12 +1,11 @@
 # NIKE AIR MAG
-<iframe src="https://giphy.com/embed/4nXyZA73D0cRG" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/simongibson2000-4nXyZA73D0cRG">via GIPHY</a></p>
+<img alt="floatingAirMag" src="/images/giphy.webp">
 
-## HTML_CSS_Website
 
 # Description
-This is a html-css-website that is meant to show front and center the Nike Air Mag shoe. Most of the styling was done with the implementation of Bootstrap and online images. 
+- This is a html-css-website that is meant to show front and center the Nike Air Mag shoe. Most of the styling was done with the implementation of Bootstrap and online images. 
 
-- This site is not yet deployed and is considered a work in progress. Need to implement a back-end where form information can be stored. 
+- This site is not yet deployed and is considered a work in progress. Need to implement a back-end where form information can be stored to be used for other features. 
 
 
 # Technical Specifications
