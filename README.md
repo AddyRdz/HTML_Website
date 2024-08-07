@@ -15,8 +15,12 @@
 
 
 # Images
-<img alt="HomePage" src=https://github.com/AddyRdz/HTML_Website/blob/main/images/Screenshot%202024-08-06%20at%208.08.47%E2%80%AFPM.png>
+<div align="center">
+    <img alt="HomePage" src="https://github.com/AddyRdz/HTML_Website/blob/main/images/Screenshot%202024-08-06%20at%208.08.47%E2%80%AFPM.png">
+</div>
 
 <img alt="FeaturesPage" src=https://github.com/AddyRdz/HTML_Website/blob/main/images/Screenshot%202024-08-06%20at%208.10.35%E2%80%AFPM.png>
 
 <img alt="PurchasePage" src=https://github.com/AddyRdz/HTML_Website/blob/main/images/Screenshot%202024-08-06%20at%207.22.04%E2%80%AFPM.png>
+
+<img alt="SkateboardAirMag" src="/images/skateboard.webp">
